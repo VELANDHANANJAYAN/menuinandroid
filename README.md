@@ -18,7 +18,7 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by: VELAN D
+Developed by:VELAN D
 Registeration Number :212222040176
 */
 ```
@@ -87,10 +87,8 @@ In menu/option.xml
 </menu>
 ```
 
-## OUTPUT:
-
+## OUTPUT
 ![WhatsApp Image 2024-05-06 at 08 28 21_54cecb08](https://github.com/VISHVA12300/menuinandroid/assets/119404426/23c5d8b2-89b0-4825-8347-d8ad8fcb79bc)
-
 ![WhatsApp Image 2024-05-06 at 08 28 19_781c2f6c](https://github.com/VISHVA12300/menuinandroid/assets/119404426/5ad43606-0336-4555-997f-65536ece3f99)
 
 
