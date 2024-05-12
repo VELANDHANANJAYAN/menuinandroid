@@ -88,12 +88,9 @@ In menu/option.xml
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-05-06 at 08 28 21_54cecb08](https://github.com/VISHVA12300/menuinandroid/assets/119404426/23c5d8b2-89b0-4825-8347-d8ad8fcb79bc)
-![WhatsApp Image 2024-05-06 at 08 28 19_781c2f6c](https://github.com/VISHVA12300/menuinandroid/assets/119404426/5ad43606-0336-4555-997f-65536ece3f99)
 
-
-
-
+![IMG-20240509-WA0033](https://github.com/VELANDHANANJAYAN/menuinandroid/assets/119405038/438f3e0d-8ba3-4878-a4ac-bf9580b62cd8)
+![IMG-20240509-WA0013](https://github.com/VELANDHANANJAYAN/menuinandroid/assets/119405038/45171d78-3e4f-4b40-97e9-39d058292b58)
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
